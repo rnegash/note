@@ -1,3 +1,5 @@
 #!/bin/bash
-echo "`date "+%Y-%m-%d"`: $1" >> `date "+%Y-%m".txt`
-echo "ran script"
+echo "feed me a message you FOOL"
+read MESSAGE
+echo "`date "+%Y-%m-%d"`: $MESSAGE" >> `date "+%Y-%m".txt`
+echo "thanks"
