@@ -9,3 +9,6 @@
 2021-08-10: $1
 2021-08-10: aw $n hyiss
 2021-08-10: aw $ndw hyiss
+2021-08-10: ah
+2021-08-10: god
+2021-08-10: 'i just spent 3 hours wondering why the alias didnt work because of a fucking space

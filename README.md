@@ -2,8 +2,10 @@
 
 #### Usage
 
-After cloning the repo,
+After cloning the repo, run
 
-`./script.sh 'best note of the day'`
+`./script.sh`
 
-This will save the message in a file as a single line. Every month a new file is created.
+and enter your note
+
+This will save the note in a file as a single line. Every month a new file is created.
